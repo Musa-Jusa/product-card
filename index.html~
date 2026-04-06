@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Карточка товара</title>
+  <link href="./style.css" rel="stylesheet"/>
+</head>
+<body>
+
+  <div class="product-card">
+    <div class="product-image">👟</div>
+    <div class="product-info">
+      <h2 class="product-title">Кроссовки Air Max Pro</h2>
+      <p class="product-description">
+        Лёгкие и стильные кроссовки с амортизирующей подошвой.
+        Идеальны для бега и повседневной носки. Дышащий верх,
+        ортопедическая стелька.
+      </p>
+      <div class="product-price">
+        5 990 ₽
+        <span class="old-price">8 490 ₽</span>
+      </div>
+      <button class="buy-btn" onclick="alert('Товар добавлен в корзину!')">Купить</button>
+    </div>
+  </div>
+
+</body>
+</html>
