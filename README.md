@@ -8,7 +8,7 @@
 - CSS3 (Flexbox, медиа-запросы, hover-эффекты, CSS-переменные)
 
 ## 🚀 Демо
-👉 [Посмотреть вживую](https://твой-ник.github.io/product-card/)
+👉 [Посмотреть вживую](https://musa-jusa.github.io/product-card/)
 
 ## 📝 Заметки
 - Адаптив реализован через `@media (max-width: 480px)`
